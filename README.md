@@ -10,3 +10,9 @@ Clear_Velocity is used to extract speed trace from the raw .txt file
 
 t_filter is a function within Clear_Velocity
 
+var_low_high_speed is used to determine low and high speed threshold
+
+motion_event is used to detect other locomotion features with Sigmoid-based method
+
+New_motion_event is used to detect motion event with search box method
+
